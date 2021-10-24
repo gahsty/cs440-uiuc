@@ -1,0 +1,3 @@
+mp4 partial done
+Viterbi 3 not work well.
+Need to think more about affix and laplace smooth between (affix-words, unseen words) and test data
